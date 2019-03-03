@@ -1,0 +1,57 @@
+IMG.logo{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 10%;
+	padding-top:10px;
+  }
+  
+ li{
+	display: inline;
+	padding:20px;
+	font-family:'PT Sans';
+	font-weight:400;
+	font-style:normal;
+	font-size:12px;
+	text-transform:uppercase;
+	letter-spacing:2px;
+ }
+ 
+ li a:hover {
+  color: purple;
+}
+
+a{
+	text-decoration: none;
+}
+
+IMG.map {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+	width: 60%;
+}
+
+h1{
+	color:purple;
+	text-align: center;
+	font-family:'PT Sans';
+	font-weight:400;
+	font-style:bold;
+	font-size:26px;
+	text-transform:uppercase;
+	letter-spacing:3px;
+}
+
+#menu-outer {
+	height: 50px;
+}
+
+.table {
+	display: table;   /* Allow the centering to work */
+	margin: 0 auto;
+}
+
+ul#horizontal-list {
+	min-width: 400px;
+}
